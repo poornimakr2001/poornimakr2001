@@ -1,9 +1,9 @@
-Hi,I am Poornima.I love programming
+Hi,I am Poornima.
 - 👋 Hi, I’m @poornimakr2001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning Python for Data Analytics
+- 💞️ I’m looking to collaborate on Machine Learning Projects
+- 📫 How to reach me @krpoornima886@gmail.com
 
 <!---
 poornimakr2001/poornimakr2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
