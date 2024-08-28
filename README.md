@@ -1,6 +1,6 @@
 Hi,I am Poornima.
 - 👋 Hi, I’m @poornimakr2001
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in Analyzing different kinds of datasets and visualizing those datasets according to my findings.
 - 🌱 I’m currently learning Python for Data Analytics 
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me @krpoornima886@gmail.com
