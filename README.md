@@ -1,4 +1,4 @@
-# Welcome to Poornima's Profile! 👋
+# Welcome to Poornima's Profile! 👋 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=#+Welcome+to+Poornima's+Profile!+👋)](https://git.io/typing-svg)
 Hi, I'm Poornima, a passionate Data Analytics student eager to dive deeper into Data Mining projects.
 
 - 🔍 **Interests**: Data Analytics, Data Mining, Machine Learning
