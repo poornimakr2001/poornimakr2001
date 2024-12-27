@@ -8,7 +8,7 @@ Hi, I'm Poornima, a passionate Data Analytics student eager to dive deeper into 
 - 🤝 **Looking to Collaborate On**: Data Mining Projects
 - 📫 **Contact Me**: krpoornima886@gmail.com
 
-- ### Programming Languages:
+### Programming Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
