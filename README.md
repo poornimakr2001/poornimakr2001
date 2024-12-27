@@ -1,9 +1,11 @@
-Hi,I am Poornima.
-- 👋 Hi, I’m @poornimakr2001
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning Python for Data Analytics 
-- 💞️ I’m looking to collaborate on Machine Learning Projects
-- 📫 How to reach me @krpoornima886@gmail.com
+# Welcome to Poornima's Profile! 👋
+Hi, I'm Poornima, a passionate Data Analytics student eager to dive deeper into Data Mining projects.
+
+- 🔍 **Interests**: Data Analytics, Data Mining, Machine Learning
+- 📚 **Currently Learning**: Python for Data Analytics
+- 🤝 **Looking to Collaborate On**: Data Mining Projects
+- 📫 **Contact Me**: krpoornima886@gmail.com
+
 
 <!---
 poornimakr2001/poornimakr2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
