@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&width=435&lines=#Welcome+to+Poornima's+Profile!+👋 %F0%9F%91%8B)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&width=435&lines=#Welcome+to+Poornima's+Profile!+👋%F0%9F%91%8B)
 
 Hi, I'm Poornima, a passionate Data Analytics student eager to dive deeper into Data Mining projects.
 
